@@ -5,7 +5,7 @@
 - 📚 I’m currently learning all about Web development.
 - 🧐 I'm seeking for my first dev job! 💻🚀
 - 📈 2021 Goals: Start work as a Web developer!
-- ⚡ Fun fact: I love playing guitar and singing.
+- ⚡ Fun fact: I love to sing and play guitar.
 
 ### Connect with me:
 
