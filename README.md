@@ -1,6 +1,6 @@
 ### Hi there, I'm Myllena Lucena 👋
 
-## I'm single, Web Fullstack Dev Jr and student!!
+## Web Fullstack Dev Jr and student!!
 
 - 📚 I’m currently learning all about Web development.
 - 🧐 I'm seeking for my first dev job! 💻🚀
