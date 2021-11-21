@@ -1,10 +1,10 @@
 ### Hi there, I'm Myllena Lucena 👋
 
-## Web Fullstack Dev Jr and student!!
+## Front-end Developer and student!!
 
 - 📚 I’m currently learning all about Web development.
 - 🧐 I'm seeking for my first dev job! 💻🚀
-- 📈 2021 Goals: Start work as a Web developer!
+- 📈 2021 Goals: Start work as a front-end developer!
 - ⚡ Fun fact: I love to sing and play guitar.
 
 ### Connect with me:
@@ -30,5 +30,5 @@
 <br />
 <br />
 
-[instagram]: https://instagram.com/karen.slucena/
+
 [linkedin]: https://www.linkedin.com/in/myllenalucena/
