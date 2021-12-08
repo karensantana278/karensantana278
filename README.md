@@ -1,58 +1,32 @@
-## Frontend Developer || React.js!!
+### Olá ! Sou a Myllena ! Uma Desenvolvedora Front-End,  React.js, com foco em visualização de dados. Em constante aprendizado e dedicação ...!!
 
-=> Desenvolvedora Fullstack/Estudante de Desenvolvimento Web Fullstack na Digital House, um Bootcamp online com duração de seis meses focando no ecossistema Node.js JavaScript. Através dessa experiência decidi me especializar no front-end, juntando o meu conhecimento em UX/UI Design e Visualização de dados para desenvolver páginas e visualizações melhores.
+### Entre em contato comigo!
+<div> 
+  <a href="https://www.instagram.com/myllena.slucena/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+  <a href = "mailto:karensantana278@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/myllenalucena/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+</div>
 
-=> Desenvolvedora Freelance/Desenvolvi temas e websites em Wordpress para profissionais autônomos e clientes locais.
+### Tecnologias que eu utilizo:
 
+<div >
+  <a href="https://github.com/karensantana278">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=karensantana278&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=karensantana278&layout=compact&langs_count=7&theme=midnight-purple"/>
+</div>
+  
 
-=> Business Intelligence/Desenvolvi dashboards em Power BI e Excel visando auxiliar na tomada de decisões estratégicas e facilitar a visualização de dados.
+<div style="display: inline_block"><br>
+  <img align="center" alt="Js" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
+  <img align="center" alt="Ts"  src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white">
+  <img align="center" alt="React" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB">
+  <img align="center" alt="HTML"  src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
+  <img align="center" alt="CSS" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
+  <img align="center" alt="Node"  src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white">
+  
+  
+</div>
+  
 
-
-Formações:
-
-- MBA em Business Intelligence
-
-- Bacharelado em Administração
-
-Conhecimento Técnico:
-
-- Programas de Design: Figma
-
--  Linguagens de marcação e estilos: HTML, CSS
-
-- Linguagens de programação: JavaScript
-
-- Frameworks Frontend: Bootstrap, React.js
-
-- Frameworks Backend:  Node.js, Express.js
-
-- Banco de Dados: MySQL
-
-### Entre em contato:
-
-[<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-
-
-<br />
-<br />
-<br />
-
-
-
-<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
-<img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
-<img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
-<img align"left" alt="React.js" width="26px" src="https://cdn.icon-icons.com/icons2/2415/PNG/512/react_original_logo_icon_146374.png"
-<img align="left" alt="Node.js" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />
-<img align="left" alt="Python" width="26px" src="https://cdn.icon-icons.com/icons2/112/PNG/512/python_18894.png" />
-<img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
-<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
-<img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
-<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
-
-
-<br />
-<br />
-
-
-[linkedin]: https://www.linkedin.com/in/myllenalucena/
+  
+  
