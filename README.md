@@ -1,4 +1,6 @@
-### Olá ! Sou a Myllena ! Uma Desenvolvedora Front-End,  React.js, com foco em visualização de dados. Em constante aprendizado e dedicação ...!!
+### Apaixonada por resolver problemas e ajudar as pessoas, encontrei na área de tecnologia a possibilidade de
+desenvolver soluções que facilitem nosso dia a dia e ajudem as pessoas, sempre em busca de mais conhecimento e aprimorando
+cada dia mais as bases, busco sempre ajudar e ensinar outras pessoas é a melhor maneira de evoluir.
 
 ### Entre em contato comigo!
 <div> 
